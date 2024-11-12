@@ -1,0 +1,28 @@
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\bin\Debug\net6.0\Lab7.exe
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\bin\Debug\net6.0\Lab7.deps.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\bin\Debug\net6.0\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\bin\Debug\net6.0\Lab7.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Lab7\obj\Debug\net6.0\ref\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\bin\Debug\net6.0\Lab7.exe
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\bin\Debug\net6.0\Lab7.deps.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\bin\Debug\net6.0\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\bin\Debug\net6.0\Lab7.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 7\Lab7\obj\Debug\net6.0\ref\Lab7.dll
