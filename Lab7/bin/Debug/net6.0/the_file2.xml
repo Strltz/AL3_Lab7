@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base>
+  <Lion comment="It is lion">
+    <Country />Tanzania<HideFromOtherAnimals />Yes<Name />Lev<WhatAnimal />Lion</Lion>
+  <Pig comment="It is pig">
+    <Country />Poland<HideFromOtherAnimals />Yes<Name />Hryak<WhatAnimal />Pig</Pig>
+  <MyAttribute comment="Attribute">
+    <Comment />It's my first attribute<TypeId />23</MyAttribute>
+</base>
